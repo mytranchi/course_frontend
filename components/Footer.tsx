@@ -27,7 +27,7 @@ function Footer() {
     // </footer>
     <footer>
       <div className="content">
-        <div className="top">
+        {/* <div className="top">
           <div className="top__logo">
             <div className="image">
               <FontAwesomeIcon icon="fab fa-slack" />
@@ -61,7 +61,7 @@ function Footer() {
               </div>
             </Link>
           </div>
-        </div>
+        </div> */}
         <div className="body">
           <ul className="body__box">
             <li>Company</li>

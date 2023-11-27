@@ -1,6 +1,4 @@
-import { Disclosure, RadioGroup } from "@headlessui/react";
-import React, { Fragment, useEffect, useState } from "react";
-import { HiChevronUp } from "react-icons/hi";
+import React, { useEffect, useState } from "react";
 import { Language, Level, Topic } from "../utils/data";
 import DiscussionFilter from "./DiscussionFilter";
 import { SearchCourseRequest } from "@/types/request.type";
